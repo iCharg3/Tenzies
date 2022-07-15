@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+}
+
+body{
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin:0;
+    background-color:black;
+    padding:10px;
+}
+
+select{
+    border-radius: 10px;
+    margin:10px;
+    width: 100px;
+    text-align: center;
+}
+
